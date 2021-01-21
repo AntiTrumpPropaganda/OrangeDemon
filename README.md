@@ -2,7 +2,7 @@
 
 > An open source dossier on Donald John Trump
 
-![Logo](OrangeDemon.png)
+<p align="center"><img alt="Orange Demon Logo" src="./OrangeDemon.png" width="432" /></p>
 
 ## License
 
